@@ -1,2 +1,60 @@
 # site-dos-gatoes
 apenas para garotas franjudas, gatinhas,
+
+[index.zip.htm](https://github.com/user-attachments/files/22042806/index.zip.htm)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background: linear-gradient(135deg, #1e3c72, #2a5298); text-align:center; padding-top:200px;">
+
+    
+    
+</body>
+      
+
+    <h1> salve cocotinhas, este e o nosso tinde do grupoo, aqui vcs vao escolher com quem quer passar o resto da vida ❤🌹</h1>
+     
+    ><h2>este e o julio!</h2>
+    <img src="c:\Users\Pichau\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Captura de tela 2025-08-29 060722.png">
+
+    <p> Julio brainrot da silva junior</p>
+    <p> 18 aninhos de vida</p>
+    <p> adora gatos e animais!</p>
+    <p>engracado, e goxtoso</p>
+    <p> carinhoso, brincalhao</p>
+    <p> namorou uma vez so!</p>
+    <p>adora valorant, e robrox</p>
+    
+    <h1>Gostou dele? </h1>
+    <p> clique aqui ↓ </p>
+
+     <button onclick="window.open('https://www.instagram.com/_.juliocmr/','_blank')" 
+          style="padding:15px 40px;
+                 font-size:18px;
+                 background:#4CAF50;
+                 color:white;
+                 border:none;
+                 border-radius:8px;
+                 cursor:pointer;">
+    CLIQUE!
+  </button>
+
+  <body>
+    <H1> este e o ruann  ↓  </H1>
+
+    <img src="c:\Users\Pichau\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Captura de tela 2025-08-29 062637.png">
+     <p>Ruann amostradin deftones da silva junior</p>
+     <p> 16 aninhos de pura vivencia!</p>
+     <p>adora jogar, so fica em casa roia!!!</p>
+     <p> adora animais, principalmente gatos</p>
+     <p>curte valoranti, e roblox e mine</p>
+     <p>e carinhoso, e namorou uma vez so na vida</p>
+
+
+</body>
+    
+</html>
